@@ -238,7 +238,7 @@ cm = confusion_matrix(y_test, y_pred)
 
 混淆矩陣如下所示。[cm (Shift+Enter)]
 
-![image](![image](https://github.com/dtanlley/report1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-01%20130027.png)
+![image](https://github.com/dtanlley/report1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-11-01%20130027.png)
 
 上圖表示：68 個真負類、0 個假正類、46 個假負類、0 個真正類。很簡單。此平方矩陣的大小隨著分類類別的增加而增加。
 
